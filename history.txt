@@ -1,0 +1,72 @@
+    1  text = ("Hello World"
+    2  cd
+    3  pwd
+    4  text = ("Hello World")
+    5  print(text)
+    6  print("hello world")
+    7  git config --global duduzile
+    8  rm -rf .git
+    9  pwd
+   10  git config --global michellekunene@gmail.com
+   11  git config --global duduzile
+   12  git config --global "DUDUZILE ZWANE"
+   13  git config --global MICHELLEKUNENE@gmail.com
+   14  git config --global "michellekunene@gmail.com"
+   15  pwd
+   16  ls
+   17  mkdir git-basic-exercises
+   18  cd
+   19  ls -a
+   20  cd git-basic-exercises
+   21  ls -a
+   22  git init
+   23  ls -a
+   24  git status
+   25  touch README.md
+   26  ls -a
+   27  git status
+   28  git log
+   29  git add README.md
+   30  git status
+   31  git commit -m "initial commit"
+   32  git config --global user.email "michellekunene@gmail.com"
+   33  git config --global user.name "Duduzile"
+   34  git commit -m "initial commit"
+   35  git log
+   36  q
+   37  nano README.md
+   38  cat README.md
+   39  git status
+   40  git add README.md
+   41  git commit -m "second commit"
+   42  nano README.md
+   43  cat README.md
+   44  git status
+   45  git add README.md
+   46  git commit -m "third commit"
+   47  git log
+   48  git checkout b9c4cbd97248fb7b644cf2c60bdcf4e5fa32f78f
+   49  cat README.md
+   50  git checkout main
+   51  git checkout master
+   52  cat README.md
+   53  git branch
+   54  git branch milshake-flavours
+   55  git branch
+   56  git checkout milkshake-flavours
+   57  git branch -d milshake-flavours
+   58  git branch
+   59  git branch milkshake-flavours
+   60  git branch
+   61  git checkout milkshake-flavours
+   62  nano milkshakes.md
+   63  git status
+   64  git add milkshakes.md
+   65  git commit -m "added initial flavours"
+   66  git log
+   67  git checkout master
+   68  git branch history
+   69  git checkout history
+   70  git log
+   71  git branch
+   72  history > history.txt
